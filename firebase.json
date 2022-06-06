@@ -1,0 +1,8 @@
+{
+    "hosting": {
+      "site": "manishimwe-emmanuel",
+  
+      "public": "/build/web"
+      
+    }
+  }
